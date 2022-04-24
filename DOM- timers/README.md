@@ -1,4 +1,4 @@
-#from left to right we get our count down in the DOM
+ From left to right we get our count down in the DOM
 
 
 
